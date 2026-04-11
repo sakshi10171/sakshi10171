@@ -87,7 +87,6 @@
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/sakshi10171/Java_Programming_Practice">📂 View Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Expense Tracker System</h3>
