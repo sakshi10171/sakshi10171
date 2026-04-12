@@ -101,37 +101,6 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
-      <a href="https://github.com/sakshi10171/my-node-project">📂 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Full Stack Internship Tasks</h3>
-      <p>Collection of full stack tasks and mini-projects built during internship training covering both frontend and backend.</p>
-      <ul>
-        <li>Multiple real-world task implementations</li>
-        <li>Frontend + Backend integration</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-      <a href="https://github.com/sakshi10171/fullstack-internship-tasks">📂 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔢 Age Calculator</h3>
-      <p>A clean utility web app that calculates exact age from date of birth with a simple and intuitive UI.</p>
-      <ul>
-        <li>Real-time age calculation</li>
-        <li>Clean, minimal UI design</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://github.com/sakshi10171/Age_calculator">📂 View Repo</a>
     </td>
   </tr>
 </table>
@@ -171,7 +140,7 @@
 
 | 🎓 Degree | 🏫 Institution | 📊 Score | 📅 Year |
 |---|---|---|---|
-| MSc Computer Application  | MES Abasaheb Garware College, Pune | 8.54 CGPA | 2024 – 2026 |
+| MSc Computer Application *(Pursuing)* | MES Abasaheb Garware College, Pune | 8.54 CGPA | 2024 – Present |
 | BSc Computer Science | Modern College, Shivajinagar | 8.75 CGPA | 2021 – 2024 |
 | HSC (12th) | Bharat English School & Jr College | 84.17% | 2021 |
 | SSC (10th) | N.H.S High School & Jr College | 79% | 2019 |
