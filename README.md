@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshi10171&theme=tokyonight" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi10171&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
 
 </div>
 
