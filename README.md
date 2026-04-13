@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Sakshi%20Babar&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20Backend%20Developer%20%7C%20MSc%20CS%20Student&descAlignY=55&descSize=15&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Sakshi%20Babar&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20Backend%20Developer%20%7C%20MSc%20CA%20Student&descAlignY=55&descSize=15&descColor=a8b2d8" width="100%"/>
 
 </div>
 
@@ -87,7 +87,6 @@
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/sakshi10171/Java_Programming_Practice">📂 View Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Expense Tracker System</h3>
