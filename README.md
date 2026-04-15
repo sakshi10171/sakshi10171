@@ -19,13 +19,13 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-🎓 &nbsp; **MSc Computer Application** student at MES Abasaheb Garware College, Pune *(CGPA: 8.54)*
+🎓 &nbsp; **MSc Computer Application** student at MES Abasaheb Garware College, Pune _(CGPA: 8.54)_
 
 💼 &nbsp; Passionate **Full Stack Developer** with strong focus on backend systems & REST APIs
 
 ☕ &nbsp; Love building things with **Java**, **Spring Boot**, and **Node.js**
 
-🗄️ &nbsp; Comfortable with both **SQL** *(MySQL, Oracle)* and **NoSQL** *(MongoDB)* databases
+🗄️ &nbsp; Comfortable with both **SQL** _(MySQL, Oracle)_ and **NoSQL** _(MongoDB)_ databases
 
 🌱 &nbsp; Currently leveling up in **Spring Boot**, **DSA**, and **System Design**
 
@@ -33,7 +33,7 @@
 
 📫 &nbsp; Reach me at **sakshibabar17@gmail.com**
 
-⚡ &nbsp; *Fun fact — I debug with coffee and determination!*
+⚡ &nbsp; _Fun fact — I debug with coffee and determination!_
 
 <br/>
 
@@ -42,27 +42,32 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend & Frameworks
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -87,6 +92,7 @@
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
+      <a href="https://github.com/sakshi10171/Java_Programming_Practice">📂 View Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Expense Tracker System</h3>
@@ -156,12 +162,12 @@
 
 ## 🏆 Certifications & Achievements
 
-| 🎖️ Certification | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| AI Job Simulation | Forage | 2024 |
-| C Programming | Techno Comp Academy | 2024 |
-| PHP for Beginners | Great Learning | 2024 |
-| C++ Programming | Techno Comp Academy | 2025 |
+| 🎖️ Certification  | 🏢 Issuer           | 📅 Year |
+| ----------------- | ------------------- | ------- |
+| AI Job Simulation | Forage              | 2024    |
+| C Programming     | Techno Comp Academy | 2024    |
+| PHP for Beginners | Great Learning      | 2024    |
+| C++ Programming   | Techno Comp Academy | 2025    |
 
 🏅 **Participated in Tech Connect Coding Competition** (2025)
 
@@ -169,12 +175,12 @@
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📊 Score | 📅 Year |
-|---|---|---|---|
-| MSc Computer Application *(Pursuing)* | MES Abasaheb Garware College, Pune | 8.54 CGPA | 2024 – Present |
-| BSc Computer Science | Modern College, Shivajinagar | 8.75 CGPA | 2021 – 2024 |
-| HSC (12th) | Bharat English School & Jr College | 84.17% | 2021 |
-| SSC (10th) | N.H.S High School & Jr College | 79% | 2019 |
+| 🎓 Degree                             | 🏫 Institution                     | 📊 Score  | 📅 Year        |
+| ------------------------------------- | ---------------------------------- | --------- | -------------- |
+| MSc Computer Application _(Pursuing)_ | MES Abasaheb Garware College, Pune | 8.54 CGPA | 2024 – Present |
+| BSc Computer Science                  | Modern College, Shivajinagar       | 8.75 CGPA | 2021 – 2024    |
+| HSC (12th)                            | Bharat English School & Jr College | 84.17%    | 2021           |
+| SSC (10th)                            | N.H.S High School & Jr College     | 79%       | 2019           |
 
 ---
 
